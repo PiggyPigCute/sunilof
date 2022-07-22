@@ -1,0 +1,526 @@
+\_sh v3.0  400  MDF
+\_DateStampHasFourDigitYear
+
+\lxMettre le nom d'enregistrement ici
+\psMettre la partie de discours ici
+
+\gf Mettre la glose en langue French ici
+\gd Mettre la glose en langue Dibi ici
+
+\xvMettre la phrase illustrative ici
+\xf Mettre la traduction en langue French de l'exemple ici
+\xd Mettre la traduction en langue Dibi de l'exemple ici
+
+\dtDate de dernière édtion
+\lx adel
+\ps nom
+\gf frère, soeur
+\gd adeli
+
+\xv et mo ko adel zo pigoli.
+\xf Je suis le frère de Pigoli.
+
+\dt 22/juin/2022
+
+\lx alm
+\ps verbe
+\gf aller
+\gd ale
+
+\xv alm mo loko munil.
+\xf Je vais dans La Forêt.
+\xd Moale lokBoski.
+
+\dt 21/avr./2022
+
+\lx am
+\ps verbe
+\gf aimer
+\gd ame
+
+\xv am mo ko apfel.
+\xf J'aime les pommes.
+\xd Moame coPomai.
+
+\dt 21/avr./2022
+
+\lx apfel
+\ps nom
+\gf pomme
+\gd pomai
+
+\xv kom mo ko apfel.
+\xf Je mange de la pomme.
+\xd Mokome coPomai.
+
+\dt 22/avr./2022
+
+\lx avog
+\ps adverbe
+\gf bonjour
+\gd avor
+
+\xv avog!
+\xf Bonjour !
+\xd Avor !
+
+\dt 21/avr./2022
+
+\lx beiti
+\ps adjectif
+\gf beau, joli
+\gd beitial
+
+\xv et sunilof ko drec beiti.
+\xf Le Clairièrois est une belle langue.
+\xd Luete suIlboskifo coDrec beitial.
+
+\dt 22/juin/2022
+
+\lx birnel
+\ps nom
+\gf poire
+\gd pirei
+
+\xv kom mo ko birnel
+\xf Je mange de la poire
+\xd Mokom coPirei.
+
+\dt 21/avr./2022
+
+\lx ceinuf
+\ps nom
+\gf porc
+\gf cochon
+\gd porci
+
+\xv et mo ko ceinuf parti.
+\xf Je suis un petit cochon.
+\xd Moete coPorci partial.
+
+\xv am ceinuf ko karfel.
+\xf Les cochons aiment les carottes.
+
+\dt 21/avr./2022
+
+\lx dibil
+\ps nom
+\gf DirtyBiologistan
+\gd dirtibiolojistani
+
+\xv et sunilof ko drec zu dibil.
+\xf Le Claririèrois est une langue du DirtyBilogistan.
+\xd Loete suIlboskifo coDirtibiolojisatni.
+
+\dt 22/juin/2022
+
+\lx dibilof
+\ps nom
+\gf Dibi, Dibistanais
+\gd dibi
+
+\xv et mo ko dibilof
+\xf Je suis Ditrybiologistanais
+
+\dt 22/juin/2022
+
+\lx dosog
+\ps adverbe
+\gf doucement
+\gd dosior
+
+\xv lum dosog munil ko mo.
+\xf La Lune m'éclairement doucement
+
+\dt 12/avr./2022
+
+\lx drec
+\ps nom
+\gf langue
+\gd dreci
+
+\xv et sunilof ko drec beiti.
+\xf Le Clairièrois est une belle langue.
+\xd Luete suIlboskifo coDrec beitial.
+
+\dt 22/juin/2022
+
+\lx et
+\ps verbe
+\gf être
+\gd ete
+
+\xv et mo ko ceinuf parti.
+\xf Je suis un petit cochon.
+\xd Moete koPorci granal.
+
+\xv et mo parti.
+\xf Je suis petit.
+\xd Moete koPartial.
+
+\dt 21/avr./2022
+
+\lx eu
+\ps conjonction
+\gf et (lie les mots de même fonction)
+\gd ae
+
+\xv kom mo ko apfel eu birnel.
+\xf Je mange de la pomme et de la poire.
+\xd Mokome koPome ae pirei.
+
+\xv kom leko unduf eu leko ceinuf ko leko apfel.
+\xf Le chien et le cochon mangent la pomme.
+
+\dt 21/avr./2022
+
+\lx kalor
+\ps verber
+\gf chauffer, réchauffer
+
+\xv romog kalor sunil.
+\xf Le soleil réchauffe trop.
+
+\dt 21/juil./2022
+
+\lx kalorel
+\ps nom
+\gf chaleur
+\gd kalori
+
+\xv et kalorel ko romog grani.
+\xf La chaleur est trop grande.
+\xf Il fait trop Chaud
+
+\dt 21/juil./2022
+
+\lx karfel
+\ps nom
+\gf carotte
+\gd ranjirizi
+
+\xv am mo ko karfel.
+\xf J'aime les carottes.
+
+\dt 21/avr./2022
+
+\lx kludiul
+\ps nom
+\gf nuage
+\gd kludi
+
+\xv ukilum kludiul ko sunil.
+\xf Des nuages cachent le Soleil.
+\xd Luukile suKludi coSoli.
+
+\dt 21/avr./2022
+
+\lx ko
+\ps préposition
+\gf introduction de COD/Attribut du sujet
+\gd co-
+
+\xv kom mo ko apfel.
+\xf Je mange de la pomme.
+\xd Mokome coPomai.
+
+\xv et mo ko ceinuf parti.
+\xf Je suis un petit cochon.
+\xd Moete coPorci partial.
+
+\dt 21/avr./2022
+
+\lx kom
+\ps verbe
+\gf manger
+\gd kome
+
+\xv kom mo ko apfel.
+\xf Je mange de la pomme.
+\xd Mokome coPomai.
+
+\dt 21/avr./2022
+
+\lx leko
+\ps déterminant
+\gf le
+\gf la
+\gf les
+
+\xv et ko leko unduf.
+\xf C'est le chien.
+
+\dt 21/avr./2022
+
+\lx loko
+\ps préposition
+\gf dans
+\gf à
+\gd lok
+
+\xv et mo loko sunil.
+\xf Je suis dans La Grande Clairière.
+\xd Moete lokIlboski Granal.
+
+\xv alm mo loko leko mez.
+\xf Je vais à la maison.
+\xd Moale lokMezi
+
+\dt 21/avr./2022
+
+\lx lud
+\ps verbe
+\gf jouer
+\gd lude
+
+\xv lud mo.
+\xf Je joue.
+\xd Molude.
+
+\dt 21/avr./2022
+
+\lx lum
+\ps verbe
+\gf éclairer
+\gd lume
+
+\xv lum sunil ko rimo.
+\xf Le Soleil nous éclaire.
+\xd Lelume suSoli coMu.
+
+\dt 21/avr./2022
+
+\lx luro
+\ps déterminant
+\gf ce
+\gf cet
+\gf cette
+\gd luro
+
+\xv kom luro unduf ko apfel.
+\xf Ce chien mange de la pomme.
+
+
+\dt 21/avr./2022
+
+\lx mez
+\ps maison
+\gf maison
+\gd mezi
+
+\xv et mo loko mez.
+\xf Je suis dans une maison.
+\xd Moete lokMezi.
+
+\dt 21/avr./2022
+
+\lx mezum
+\ps verbe
+\gf habiter
+\gf vivre
+\gd meze
+
+\xv mezum mo loko sunil.
+\xf J'habite dans la Grande Clairière.
+\xd moMeze lokIlboski Granal.
+
+\dt 12/avr./2022
+
+\lx mo
+\ps pronom
+\gf je
+\gf moi
+\gd mo
+
+\xv kom mo.
+\xf Je mange.
+\xd Mokome.
+
+\xv lum munil ko mo.
+\xf La lune m'éclaire.
+
+\dt 21/avr./2022
+
+\lx munil
+\ps nom
+\gf lune
+\gd lundi
+\gf mort (la mort)
+\gd muri
+\gf La forêt de la Grande Clairière
+
+\xv lum dosog munil ko mo.
+\xf la lune m'éclaire doucement.
+
+\xv et sunil pas puo munil.
+\xf La vie est un passage avant ma mort.
+
+\xv not alm to loko munil.
+\xf Ne vas pas dans La Forêt.
+
+\dt 12/avr./2022
+
+\lx not
+\ps modal
+\gf ne pas
+\gf négation
+\gd no
+
+\xv not et me parti.
+\xf Je ne suis pas petit.
+
+\dt 12/avr./2022
+
+\lx parti
+\ps adjectif
+\gf petit
+\gd partial
+
+\xv et mo parti.
+\xf Je suis petit.
+\xd Moete koPartial.
+
+\xv kom unduf parti ko leko apfel.
+\xf Le petit chien mange la pomme.
+\xd Lokome suKani partial coPomai
+
+\dt 21/avr./2022
+
+\lx pas
+\ps nom
+\gf passage
+\gd pasi
+
+\xv spojit luro pas sunil eu munil.
+\xf Ce chemin relie La Gandre Clairière et La Forêt.
+
+\dt 12/avr./2022
+
+\lx puo
+\ps préposition
+\gf avant
+\gd puor
+
+\xv et sunil puo munil.
+\xf La vie est avant la mort.
+
+\dt 21/avr./2022
+
+\lx rimo
+\ps pronom
+\gf nous
+\gd mu
+
+\xv lud rimo.
+\xf Nous jouons.
+\xd Mulude.
+
+\dt 21/avr./2022
+
+\lx romog
+\ps adverbe
+\gf trop
+\gd romor
+
+\xv et pas ko romog grani.
+\xf Le chemin est trop grand.
+
+\xv romog kalor sunil.
+\xf Le soleil réchauffe trop.
+
+\dt 21/juil./2022
+
+\lx spojit
+\ps verbe
+\gf relier
+\gd spojite
+
+\xv spojit luro pas sunil eu munil.
+\xf Ce chemin relie La Gandre Clairière et La Forêt.
+
+\dt 12/avr./2022
+
+\lx sunil
+\ps nom
+\gf soleil
+\gd soli
+\gf vie
+\gd viti
+\gf Grande Clairière
+\gd Ilboski Granal
+
+\xv ukilum kludiul ko sunil.
+\xf Des nuages cachent le Soleil.
+\xd Luukile suKludi coSoli.
+
+\xv et sumil parti.
+\xf La vie est courte.
+
+\xv mezum mo loko sunil.
+\xf J'habite dans la Grande Clairière.
+\xd Momeze lokIlboski Granal.
+
+\dt 21/avr./2022
+
+\lx sunilof
+\ps nom
+\gf Clairièrois (habitant ou langue)
+\gd Ilboskifo
+
+\xv et mo ko sunilof.
+\xf Je suis un Clairièrois.
+\xd Moete koIlboskifo.
+
+
+
+
+\dt 21/avr./2022
+
+\lx to
+\ps pronom
+\gf tu
+\gf toi
+\gd to
+
+\xv kom to.
+\xf Tu manges.
+\xd Tokome.
+
+\xv lum munil ko to.
+\xf La lune t'éclaire.
+\xd
+
+\dt 21/avr./2022
+
+\lx ukilum
+\ps verber
+\gf cacher
+\gd ukile
+
+\xv ukilum kludiul ko sunil.
+\xf Des nuages cachent le Soleil.
+\xd Luukile suKludi coSoli.
+
+\dt 21/avr./2022
+
+\lx unduf
+\ps nom
+\gf chien
+\gd kani
+
+\xv kom unduf parti ko apfel.
+\xf Le petit chien mange de la pomme.
+
+\dt 21/avr./2022
+
+\lx zo
+\ps préposition
+\gf de
+\gd -
+
+\xv et sunilof ko drec zu dirtibiolojistanil.
+\xf Le Claririèrois est une langue du DirtyBilogistan.
+\xd Loete suIlboskifo coDirtibiolojisatni.
+
+\dt 22/juin/2022
+
